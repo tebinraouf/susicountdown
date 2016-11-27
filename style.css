@@ -1,0 +1,55 @@
+body {
+  background-image: url(miami3.jpg);  
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.my .countdown-row {
+    display: block;
+    text-align: center;
+}
+
+.my .countdown-section {
+    display: inline-block;
+    width: 105px;
+}
+
+.my .countdown-amount {
+    display: block;
+    color: white;
+    font-size: 5.6em;
+    line-height: 55px;
+}
+.my .countdown-period {
+    display: block;
+    color: #ffffff;
+    font-size: 1.4em;
+    text-transform: uppercase;
+}
+
+.text {
+    margin: 10px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+}
+
+.firstcharacter { 
+    float: left; 
+    font-size: 75px; 
+    line-height: 60px; 
+    padding-top: 4px; 
+    padding-right: 8px; 
+    padding-left: 3px; 
+}
+
+.text h2 {
+    text-align: center;
+}
